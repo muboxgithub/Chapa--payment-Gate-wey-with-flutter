@@ -1,6 +1,9 @@
 # chapa Payment Integration with flutter
 
-A new Flutter project.
+This project compelety show how integrate chapa with flutter
+
+# steps for Integration
+1. add chapa_flutter dependecy from pupdev.com
 
 ## Getting Started
 
