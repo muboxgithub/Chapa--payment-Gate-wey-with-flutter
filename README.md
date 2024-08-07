@@ -1,17 +1,10 @@
-# chapap
+# chapa Payment Integration with flutter
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+## Image
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# Chapa--payment-Gate-wey-with-flutter
+![Screenshot 2024-08-07 090324](https://github.com/user-attachments/assets/f14c1ed6-215e-49d8-ab51-382d60308e5a)
+![Screenshot 2024-08-07 085918](https://github.com/user-attachments/assets/e08346d8-a961-407f-9608-c52bc6cd6f3c)
