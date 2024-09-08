@@ -3,7 +3,7 @@ import 'package:flutter/material.dart';
 import 'package:chapa_unofficial/chapa_unofficial.dart';
 
 void main() {
-  Chapa.configure(privateKey: 'CHASECK_TEST-W6aIJp8ll6ylh37XekxotZyENKaawDQA');
+  Chapa.configure(privateKey: 'CHASECK_TEST-W6aIJp8ll6ylh37XekxotZyENKaawDQA');//write your private key from chapa 
   runApp(
     MaterialApp(
       title: 'chapa paymnet',
